@@ -1,4 +1,10 @@
+<div align="center">
+
 ![bornomala](https://github.com/BornomalaSoftware/.github/assets/62181222/8908dfc5-8b56-418c-8dcb-0272377503fe)
+
+[Go to Play Store](https://play.google.com/store/apps/dev?id=8793354118741917874)
+
+</div>
 
 ## Download Stats
 <a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-1.4.39.apk"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/NID_Portal_Bangladesh/total?style=for-the-badge&label=NID Portal Bangladesh&labelColor=456&logo=android&color=white" style="height:25px;"/></a>
